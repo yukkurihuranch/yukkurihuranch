@@ -2,7 +2,7 @@
   <a href="https://github.com/windowsrtx/">
     <img src="https://komarev.com/ghpvc/?username=windowsrtx" alt="windowsrtx" />
   </a>
-  <a href="http://twitter.com/windowsrtx">
+  <a href="http://twitter.com/Endermanwindows">
     <img height="20" src="https://img.shields.io/twitter/follow/Endermanwindows?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/windowsrtx">
