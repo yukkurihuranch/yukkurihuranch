@@ -1,5 +1,17 @@
-* [YouTube](https://www.youtube.com/c/ゆっくりフランch)
-* [Twitter](https://twitter.com/Endermanwindows)
+## ゆっくりフラン_ch だよ～～
+
+## 自己紹介
+
+どこかに住んでる謎の人
+
+## リンク先
+| 名 | リンク | description |
+| :---: | :---: | :--------- |
+| YouTube | https://www.youtube.com/c/ゆっくりフランch | 人気投稿サイト～ |
+| Twitter | https://twitter.com/Endermanwindows | | Twitterだよ～～ | |
+| マインクラフト鯖 | https://discord.gg/Q9gztwkkS8 |  Discord～ |
+| マイクラ鯖の公式サイト | https://www.yuhunet.ml/mc | そのままの意味～ |
+| 公式サイト | https://www.yuhunet.ml | 公式サイト～ |
 
 <p align="left"> 
   <a href="https://github.com/windowsrtx/">
