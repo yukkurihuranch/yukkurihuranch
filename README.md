@@ -1,3 +1,6 @@
+* [YouTube](https://www.youtube.com/c/ゆっくりフランch)
+* [Twitter](https://twitter.com/Endermanwindows)
+
 <p align="left"> 
   <a href="https://github.com/windowsrtx/">
     <img src="https://komarev.com/ghpvc/?username=windowsrtx" alt="windowsrtx" />
