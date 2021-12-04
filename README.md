@@ -14,8 +14,8 @@
 | 公式サイト | https://www.yuhunet.ml | 公式サイト～ |
 
 <p align="left"> 
-  <a href="https://github.com/windowsrtx/">
-    <img src="https://komarev.com/ghpvc/?username=windowsrtx" alt="windowsrtx" />
+  <a href="https://github.com/yukkurihuranch/">
+    <img src="https://komarev.com/ghpvc/?username=yukkurihuranch" alt="windowsrtx" />
   </a>
   <a href="https://www.youtube.com/c/ゆっくりフランch">
     <img height="20" src="https://img.shields.io/youtube/channel/subscribers/UC025Lpmbv5nMKGD8pfwHNJg?&style=flat&logo=Youtube" />
@@ -23,8 +23,8 @@
   <a href="http://twitter.com/Endermanwindows">
     <img height="20" src="https://img.shields.io/twitter/follow/Endermanwindows?label=Twitter&logo=twitter&style=flat" />
   </a>
-  <a href="https://github.com/windowsrtx">
-    <img height="20" src="https://img.shields.io/github/followers/windowsrtx?label=follow&logo=github&style=flat" />
+  <a href="https://github.com/yukkurihuranch">
+    <img height="20" src="https://img.shields.io/github/followers/yukkurihuranch?label=follow&logo=github&style=flat" />
   </a>
 </p>
 
